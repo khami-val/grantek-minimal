@@ -1,0 +1,5 @@
+# Internal files: keep them out of the public deployment
+docs/
+.claude/
+CLAUDE.md
+README.md
